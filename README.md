@@ -2,7 +2,7 @@
 
 ## Overview
 
-Booklore is a powerful Library Management System crafted to simplify and optimize the management of books, users, and various library-related activities. Whether you're a Super Admin, Librarian, or Student, Booklore offers tailored features to meet your specific needs.
+Booklore is a powerful Library Management System crafted to simplify and optimize the management of books, users, and various library-related activities. Whether you're a Super Admin, Librarian, Student, and Faculty, Booklore offers tailored features to meet your specific needs.
 
 ### Features
 
