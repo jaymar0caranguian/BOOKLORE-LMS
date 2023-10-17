@@ -19,7 +19,7 @@ Booklore is a powerful Library Management System crafted to simplify and optimiz
 
 1. **Dashboard:**
    - Monitor the total number of books in the library.
-   - Track and collect fines from users.
+   - Track fines from users.
    - View and manage user accounts.
 
 2. **Classification:**
