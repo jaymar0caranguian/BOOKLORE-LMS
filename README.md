@@ -78,7 +78,7 @@ The librarian enjoys all the features available to Super Admins with the excepti
 - **Academics (No. 3):** Academic course and year management.
 - **Manage User (No. 5):** Adding and modifying user accounts.
 
-### Student and Librarian Features
+### Student and Faculty Features
 
 1. **Dashboard:**
    - View essential information about borrowed books, including user ID, book code, issue date, return date, actual return date, and fines if applicable.
@@ -98,6 +98,6 @@ The librarian enjoys all the features available to Super Admins with the excepti
 
 To begin your Booklore journey, access the login page and use your credentials based on your role. Once inside, explore the comprehensive dashboard and discover the features tailored to your responsibilities.
 
-Booklore is designed to enhance the efficiency of library management, fostering a seamless experience for administrators, librarians, and students alike. For further assistance or inquiries, please don't hesitate to reach out.
+Booklore is designed to enhance the efficiency of library management, fostering a seamless experience for administrators, librarians, students, and faculty alike. For further assistance or inquiries, please don't hesitate to reach out.
 
 Happy reading! 📚
