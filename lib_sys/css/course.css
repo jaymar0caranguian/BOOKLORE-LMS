@@ -1,0 +1,96 @@
+/* Google Fonts Import Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+  .course-management {
+    background-color: #fff;
+    border-radius: 10px;
+    padding: 20px;
+    margin-left: 60px;
+    margin-right: 60px;
+    margin-top: 30px;
+  }
+  
+  .title {
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .line {
+    height: 1px;
+    background-color: #ccc;
+    margin-bottom: 20px;
+  }
+  
+  .course-form {
+    align-items: center;
+  } 
+  
+  label {
+    font-size: 15px;
+    margin-right: 10px;
+  }
+  
+  input[type="text"], input[type="email"], input[type="number"], input[type="file"], input[type="password"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 100%;
+  }
+  
+  .submit-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #007bff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+  }
+  
+  .submit-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .submit-btn i {
+    margin-right: 10px;
+    font-size: 18px;
+  }
+
+   .add-btn {
+    display: flex;
+    float: right;
+    align-items: center;
+    justify-content: center;
+    padding: 8px;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    background-color: #007bff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    margin-left: 10px;
+  } 
+
+.add-btn i {
+    margin-right: 10px; /* Add desired margin value */
+}
+
+
+
+
+  
+
+
+ 
+
+ 

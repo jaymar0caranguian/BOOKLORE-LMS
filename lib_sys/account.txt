@@ -1,0 +1,21 @@
+This file contains the passwords of the four users of Booklore: the Library System, which are the super admin, librarian, student, and faculty.
+
+Super Admin:
+
+Email: ivybayonon@gmail.com
+Password: 9TV^953@7TpI
+
+Librarian:
+
+Email: janzelsuagen@gmail.com
+Password: AV3xGl_4HR*!X=v8
+
+Student:
+
+Email: angelizeescario@gmail.com
+Password: 1@!63N!?#TAya^9-
+
+Faculty:
+
+Email: chastycaacoy@gmail.com
+Password: Vs-N>=MWH0.a0t03

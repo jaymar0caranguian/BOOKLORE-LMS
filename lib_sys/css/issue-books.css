@@ -1,0 +1,97 @@
+.search-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+}
+
+.search-container input[type="text"] {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+.left-search {
+    flex-basis: 30%;
+    display: flex;
+}
+
+.right-search {
+    flex-basis: 30%;
+    display: flex;
+}
+
+.textbox-container-left {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.textbox-container-right {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.textbox {
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 300px;
+    background-color: rgb(200, 198, 198);
+    color: black;
+    margin-right: 10px;
+}
+
+
+/* Style for the date picker */
+input[type="date"] {
+    width: 200px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    font-size: 16px;
+    color: #333;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+button {
+    width: 150px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-left: 10px;
+    margin-right: 10px;
+    align-items: center;
+    justify-content: center;
+    font-size: 15px;
+    color: #fff;
+    background-color: #007bff;
+    transition: all 0.3s ease;
+    cursor: pointer;
+    align-items: center;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button i {
+    margin-right: 3px;
+    font-size: 18px;
+    align-items: center;
+}
+
+.adjust {
+    margin-left: 20px;
+}

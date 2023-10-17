@@ -1,0 +1,40 @@
+/* Pagination container */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+/* Pagination links */
+.pagination ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex; /* Display the list items in a row */
+}
+
+.pagination ul li {
+    display: inline;
+    margin: 0 5px;
+}
+
+.pagination ul li a {
+    display: block;
+    padding: 7px 14px;
+    background-color: #dedcdc;
+    color: #333;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    transition: background-color 0.3s ease;
+}
+
+.pagination ul li a:hover {
+    background-color: #5b5a5a;
+}
+
+/* Active page link */
+.pagination ul li.active a {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #333;
+}
