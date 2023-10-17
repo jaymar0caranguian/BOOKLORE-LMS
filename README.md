@@ -102,7 +102,3 @@ Booklore is designed to enhance the efficiency of library management, fostering 
 
 Happy reading! 📚
 
-## Sample Photos (Booklore: LMS)
-
-![Alt Text]([https://drive.google.com/uc?id=1XLS3xF_k3TILacV-oJuqCgeCMUnOgGzv](https://drive.google.com/file/d/1yczRQmKiOOXUp9NRxAdAyoHFVp3ON_cf/view?usp=sharing)https://drive.google.com/file/d/1yczRQmKiOOXUp9NRxAdAyoHFVp3ON_cf/view?usp=sharing)
-
